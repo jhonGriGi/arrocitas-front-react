@@ -21,11 +21,13 @@ function About() {
         <Text styles="text-xl my-2 p-2 text-[#1c1c1c]">
           Soy una mujer emprendedora, mi historia comienza con el desarrollo de
           Arrocitas. Un snack horneado y libre de gluten, inspiradas en la
-          búsqueda constante de sabores únicos y opciones más saludables.Con
-          Arrocitas, no solo ofrezco un snack; ofrezco una experiencia de sabor
-          única, nutritiva y llena de alegría. Mi sueño es llevar esta delicia a
-          todos los rincones del país, para que todos podamos disfrutar de la
-          magia de cuidarnos sin renunciar al placer.
+          búsqueda constante de sabores únicos y opciones más saludables.
+        </Text>
+        <Text styles="text-xl my-2 p-2 text-[#1c1c1c]">
+          Con Arrocitas, no solo ofrezco un snack; ofrezco una experiencia de
+          sabor única, nutritiva y llena de alegría. Mi sueño es llevar esta
+          delicia a todos los rincones del país, para que todos podamos
+          disfrutar de la magia de cuidarnos sin renunciar al placer.
         </Text>
         <Text styles="font-bold text-2xl text-center text-[#1c1c1c]">
           ¡GRACIAS POR SER PARTE DE ESTA CRUJIENTE AVENTURA!
@@ -40,8 +42,8 @@ function About() {
           <Text styles="font-bold text-3xl w-4/12 container text-center text-white flex justify-end ml-5">
             <FaLocationCrosshairs />
             <Text styles="font-bold text-sm text-center text-white ml-5">
-            Manizales, Caldas
-          </Text>
+              Manizales, Caldas
+            </Text>
           </Text>
         </section>
       </section>
