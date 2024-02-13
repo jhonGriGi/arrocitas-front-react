@@ -15,7 +15,7 @@ function Product() {
         className="bg-cover bg-center h-auto relative p-10"
         style={backgrounImageStyle}
       >
-        <section className="bg-[#E0A526] p-5 w-10/12 mx-auto">
+        <section className="bg-[#E0A526] p-5 w-10/12 mx-auto rounded-xl">
           <ProductFrontInfo />
           <ProductBackInfo />
         </section>
